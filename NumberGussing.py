@@ -39,4 +39,4 @@ while count < math.log(upper - lower + 1, 2):
 # shows this output.
 if count >= math.log(upper - lower + 1, 2):
     print("\nThe number is %d" % x)
-    print("\tBetter Luck Next time!")
+    print("\tBetter Luck Next time! hero")
